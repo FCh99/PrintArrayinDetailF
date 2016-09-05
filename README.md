@@ -1,0 +1,1 @@
+Main Activity has a button, when clicked, it instantiates a Car ArrayList, generates an intent, putsParcelableArrayListExtra  and starts Detail Activity, which shows a String representation in a TextView 
